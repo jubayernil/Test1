@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">LayoutTest</string>
+    <string name="enterfirstName">Enter your first name</string>
+    <string name="enterLastName">Enter your last name</string>
+    <string name="enterMiddleName">Enter your middle name</string>
+</resources>
